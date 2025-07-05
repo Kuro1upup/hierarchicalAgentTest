@@ -1,10 +1,6 @@
 venv/
 __pycache__/
-app/
-data/
 *.env
 *.pyc
 *.pyo
 *.pyd
-requirements.txt
-run.sh
